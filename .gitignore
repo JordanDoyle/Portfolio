@@ -1,0 +1,9 @@
+*.crt
+*.csr
+*.key
+bower_components
+node_modules
+*.css
+*.css.map
+.idea
+.DS_Store

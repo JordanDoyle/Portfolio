@@ -1,0 +1,30 @@
+{
+  "name": "Portfolio",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Jordan Doyle <jordan@doyle.wf>"
+  ],
+  "license": "MIT",
+  "moduleType": [
+    "node"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~4.0.0",
+    "holderjs": "~2.9.0",
+    "Stickyfill": "~1.1.3",
+    "scrollmagic": "ScrollMagic#~2.0.5",
+    "gsap": "~1.18.0",
+    "font-awesome": "~4.4.0",
+    "prefixfree": "prefix-free#gh-pages"
+  }
+}
