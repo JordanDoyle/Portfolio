@@ -7,3 +7,5 @@ node_modules
 *.css.map
 .idea
 .DS_Store
+animus
+doyle.wf.html

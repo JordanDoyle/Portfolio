@@ -9,7 +9,7 @@
     <meta name="author" content="Jordan Doyle">
 
     <meta name="robots" content="index, follow">
-    <meta name="keywords" content="jordan, doyle, developer, php, html5, css3, node, laravel, javascript, coder, portfolio, Southport, Merseyside, United Kindom, Liverpool, Manchester, Preston, Lancashire">
+    <meta name="keywords" content="jordan, doyle, developer, php, html5, css3, node, laravel, javascript, coder, portfolio, Southport, Merseyside, United Kingdom, Liverpool, Manchester, Preston, Lancashire">
 
     <title>{{ title }}</title>
 
@@ -31,6 +31,10 @@
         <div class="slide" style="background:url(/images/headers/3.jpg)"></div>
     </div>
 
+    <a href="jordandoyle.gpg" id="gpg">
+        327D 73A1 FEF2 CDA5 1140  1183 1EA6 BAE6 F66D C49A
+    </a>
+
     <div class="darker">
         <div class="vertical-center">
             <div class="img-circle"></div>
@@ -44,8 +48,7 @@
 <nav class="navbar navbar-light">
     <div class="container">
         <div class="pull-left">
-            <!--<a class="navbar-brand" href="#">Navbar</a>-->
-            <a href="https://github.com/JordanDoyle" class="btn azm-social azm-size-48 azm-circle azm-github"><i class="fa fa-github"></i></a>
+            <a href="https://github.com/w4" class="btn azm-social azm-size-48 azm-circle azm-github"><i class="fa fa-github"></i></a>
             <a href="https://stackoverflow.com/users/2132800/jordan-doyle" class="btn azm-social azm-size-48 azm-circle azm-stack-overflow"><i class="fa fa-stack-overflow"></i></a>
             <a href="mailto:jordan@doyle.wf" class="btn azm-social azm-size-48 azm-circle azm-email-2"><i class="fa fa-envelope"></i></a>
             <a href="https://instagram.com/doyl_e/" class="btn azm-social azm-size-48 azm-circle azm-instagram"><i class="fa fa-instagram"></i></a>
