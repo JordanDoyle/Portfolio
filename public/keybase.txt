@@ -1,0 +1,51 @@
+https://keybase.io/jrd
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://doyle.wf
+  * I am jrd (https://keybase.io/jrd) on keybase.
+  * I have a public key ASBqMxqOu8CyUkXTPfH7kJHXO8_b-CtB3VfcLsfMYePOFgo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101f8ff35fddd983616baaab2659264d82c9aaafa16ac7d944f934d5bbf607080720a",
+            "host": "keybase.io",
+            "kid": "01206a331a8ebbc0b25245d33df1fb9091d73bcfdbf82b41dd57dc2ec7cc61e3ce160a",
+            "uid": "b651e643e2e0de40185c1269c9df0c19",
+            "username": "jrd"
+        },
+        "service": {
+            "hostname": "doyle.wf",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.6"
+    },
+    "ctime": 1450866833,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1450866722,
+        "hash": "1aff38bf48af29b446dd86e39f06d6f065512ff05300aaeeee8232d931da6856b3c16e76c612a6408bded40401941216559a5eb177ad0b915d192135a360b70e",
+        "seqno": 337890
+    },
+    "prev": "04ad0695e6ca23d709de49a27c17faa0b544f2fb0f7361c25725c6be35dfdcec",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgajMajrvAslJF0z3x+5CR1zvP2/grQd1X3C7HzGHjzhYKp3BheWxvYWTFAup7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxZjhmZjM1ZmRkZDk4MzYxNmJhYWFiMjY1OTI2NGQ4MmM5YWFhZmExNmFjN2Q5NDRmOTM0ZDViYmY2MDcwODA3MjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNmEzMzFhOGViYmMwYjI1MjQ1ZDMzZGYxZmI5MDkxZDczYmNmZGJmODJiNDFkZDU3ZGMyZWM3Y2M2MWUzY2UxNjBhIiwidWlkIjoiYjY1MWU2NDNlMmUwZGU0MDE4NWMxMjY5YzlkZjBjMTkiLCJ1c2VybmFtZSI6ImpyZCJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiZG95bGUud2YiLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC42In0sImN0aW1lIjoxNDUwODY2ODMzLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0NTA4NjY3MjIsImhhc2giOiIxYWZmMzhiZjQ4YWYyOWI0NDZkZDg2ZTM5ZjA2ZDZmMDY1NTEyZmYwNTMwMGFhZWVlZTgyMzJkOTMxZGE2ODU2YjNjMTZlNzZjNjEyYTY0MDhiZGVkNDA0MDE5NDEyMTY1NTlhNWViMTc3YWQwYjkxNWQxOTIxMzVhMzYwYjcwZSIsInNlcW5vIjozMzc4OTB9LCJwcmV2IjoiMDRhZDA2OTVlNmNhMjNkNzA5ZGU0OWEyN2MxN2ZhYTBiNTQ0ZjJmYjBmNzM2MWMyNTcyNWM2YmUzNWRmZGNlYyIsInNlcW5vIjo4LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQM4tmhCX7yF7TrFlfUNL0gQ9ds3PI3M4vmXzM4KIVyGf9dAgZSzkdT21xcsGvF1I+aFu04IsFNp02Fpwr+sGvgyoc2lnX3R5cGUgo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jrd
