@@ -9,7 +9,7 @@
     <meta name="author" content="Jordan Doyle">
 
     <meta name="robots" content="index, follow">
-    <meta name="keywords" content="jordan, doyle, developer, php, html5, css3, node, laravel, javascript, coder, portfolio, Southport, Merseyside, United Kingdom, Liverpool, Manchester, Preston, Lancashire">
+    <meta name="keywords" content="jordan, doyle, developer, python, php, html5, css3, node, laravel, javascript, coder, portfolio, Southport, Merseyside, United Kingdom, Liverpool, Manchester, Preston, Lancashire">
 
     <title>{{ title }}</title>
 
@@ -51,7 +51,7 @@
             <a href="https://github.com/w4" class="btn azm-social azm-size-48 azm-circle azm-github"><i class="fa fa-github"></i></a>
             <a href="https://stackoverflow.com/users/2132800/jordan-doyle" class="btn azm-social azm-size-48 azm-circle azm-stack-overflow"><i class="fa fa-stack-overflow"></i></a>
             <a href="mailto:jordan@doyle.wf" class="btn azm-social azm-size-48 azm-circle azm-email-2"><i class="fa fa-envelope"></i></a>
-            <a href="https://instagram.com/doyl_e/" class="btn azm-social azm-size-48 azm-circle azm-instagram"><i class="fa fa-instagram"></i></a>
+            <a href="https://instagram.com/fuckitsdoyle/" class="btn azm-social azm-size-48 azm-circle azm-instagram"><i class="fa fa-instagram"></i></a>
             <a href="https://www.last.fm/user/doyle-" class="btn azm-social azm-size-48 azm-circle azm-lastfm"><i class="fa fa-lastfm"></i></a>
         </div>
 
@@ -68,9 +68,9 @@
                     <li class="nav-item">
                         <a class="nav-link" href="http://doyle.ninja">Blog</a>
                     </li>
-                    <li class="nav-item">
+                    <!--<li class="nav-item">
                         <a class="nav-link" href="https://uk.linkedin.com/in/jordannn">LinkedIn</a>
-                    </li>
+                    </li>-->
                 </ul>
             </div>
         </div>
