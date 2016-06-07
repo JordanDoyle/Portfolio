@@ -17,6 +17,10 @@ router.get('/', function(req, res, next) {
         {
           link: "images/previous_work/zlitz.png",
           alt: "ZlitzCheats developed in 2014"
+        },
+        {
+          link: "images/previous_work/hk.png",
+          alt: "HabboKingdom forum skin developed in 2015 using vBulletin 4."
         }
       ],
       [
